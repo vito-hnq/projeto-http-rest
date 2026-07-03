@@ -43,8 +43,6 @@ projeto-http/
 ├── docker-compose.yml
 ├── requirements.txt
 ├── README.md
-├── Tutorial_API_HTTP_Docker.pdf
-└── imagens/
 ```
 
 ---
